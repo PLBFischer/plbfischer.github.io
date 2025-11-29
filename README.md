@@ -4,7 +4,7 @@
 
 ## Education
 - M.S., Physics	| ETH Zurich (_September 2024_)	 			        		
-- B.S., Physics | ETH Zurich  _September 2025_)	 
+- B.S., Physics | ETH Zurich  (_September 2025_)	 
 
 ## Work Experience
 **Researcher @ Harvard Medical School (_Nobember 2024 - Present_)**
