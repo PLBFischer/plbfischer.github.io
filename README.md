@@ -11,10 +11,11 @@ I'm Paolo — I build generative AI models for protein engineering, cellular dyn
 **with Prof. Jonathan Gootenberg & Prof. Omar Abudayyeh**  
 _November 2024 – Present_
 
-- Leading development of a novel AI-driven computational pipeline for few-shot protein optimization  
-- Developing diffusion-based and flow-based generative models for protein sequence design  
-- Achieved **80× improvement in NanoLuc luminescence after just 60 tested variants**  
-- **Independent collaboration integrated into the same position:**  
+- **Project A — Protein engineering**  
+  - Leading development of a novel AI-driven computational pipeline for few-shot protein optimization  
+  - Developing diffusion-based and flow-based generative models for protein sequence design  
+  - Achieved **80× improvement in NanoLuc luminescence after just 60 tested variants**  
+- **Project B — scRNA-seq forecasting**  
   - Developed a generative model predicting HSPC differentiation trajectories from sparse single-cell time-series  
   - Achieved state-of-the-art performance on synthetic and biological benchmarks  
   - [Manuscript in preparation (first author)](manuscripts/distribution_conditioned_transport.pdf)
