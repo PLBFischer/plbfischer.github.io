@@ -17,13 +17,13 @@ _November 2024 – Present_
 - **Independent collaboration integrated into the same position:**  
   - Developed a generative model predicting HSPC differentiation trajectories from sparse single-cell time-series  
   - Achieved state-of-the-art performance on synthetic and biological benchmarks  
-  - Manuscript in preparation (first author)
+  - [Manuscript in preparation (first author)](manuscripts/icml.pdf)
 
 ### Master’s Thesis — Harvard University  
 _March 2024 – November 2024_  
 - Created a new method for vascularization of 3D-printed organs using adaptive fluid-driven branching  
 - Built high-performance FEM simulations using FEniCS  
-- First-author manuscript under review at Physical Review Letters  
+- [First-author manuscript under review at Physical Review Letters](https://arxiv.org/pdf/2509.26101)  
 
 ### Research Assistant — ETH Zurich (Prof. Michaels)  
 _Sept 2023 – Feb 2024_  
@@ -52,7 +52,7 @@ _Sept 2023_
 
 ## Publications & Manuscripts
 
-- _Self-organized adaptive branching in frangible matter_ — under review  
+- [_Self-organized adaptive branching in frangible matter_ — under review](https://arxiv.org/pdf/2509.26101)  
 - _Transport Distribution Embeddings_ — in preparation  
 - _Self-consistent analytical solutions for binodal lines in ternary mixtures_ — in preparation  
 - META 2022 Proceedings (NV center single-photon emission)  
